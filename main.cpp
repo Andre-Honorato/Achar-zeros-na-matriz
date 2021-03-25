@@ -103,7 +103,7 @@ int main ()
             }
             else
             {
-                cout << "Não existe melhor" << endl;
+                cout << "NÃ£o existe melhor" << endl;
             }
         }
     }
